@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Erikson Gonçalves</h1>  
 
-<!--
-**eriksongoncalves/eriksongoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
+</p>
+<p align="center">
+  <a href="https://github.com/eriksongoncalves" alt="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eriksongoncalves" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5511979657791/" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
+  </a>
+</p>
