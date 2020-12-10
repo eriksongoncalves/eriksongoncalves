@@ -1,7 +1,7 @@
 <h1 align="center">Erikson Gonçalves</h1>  
 
 <p align="center">
-🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
+🚀 ReactJS | Typescript | Javascript | NodeJS | GIT React Native | GraphQL | SQL | NoSQL | HTML | CSS 
 </p>
 <p align="center">
   <a href="https://github.com/eriksongoncalves" alt="GitHub">
