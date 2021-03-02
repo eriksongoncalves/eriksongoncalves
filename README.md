@@ -10,7 +10,8 @@
   <a href="https://www.linkedin.com/in/eriksongoncalves" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/5511979657791/" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eriksongoncalves&show_icons=true&theme=dracula" alt="Erikson Gonçalves Bezerra github stats" />
 </p>
