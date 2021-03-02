@@ -1,4 +1,4 @@
-<h1 align="center">Erikson Gonçalves Bezerra</h1>  
+<h1 align="center">Erikson Gonçalves Bezerra</h1>
 
 <p align="center">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React JS, React Native, NextJS"/>
@@ -28,9 +28,9 @@
 
 ### **Where to find me:**
 
-<a href="https://www.linkedin.com/in/eriksongoncalves/" title="LinkedIn - Erikson Gonçalves Bezerra"><img alt="LinkedIn - Erikson Gonçalves Bezerra" width="28" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" /></a>
+<a href="https://www.linkedin.com/in/eriksongoncalves/" target="_blank" title="LinkedIn - Erikson Gonçalves Bezerra"><img alt="LinkedIn - Erikson Gonçalves Bezerra" width="28" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" /></a>
 <span>&nbsp;</span><span>&nbsp;</span>
-<a href="mailto:eriksongoncalves@yahoo.com.br" title="E-mail - Erikson Gonçalves Bezerra"><img alt="E-mail - Erikson Gonçalves Bezerra" width="32" src="https://www.flaticon.com/svg/static/icons/svg/187/187197.svg" /></a>
+<a href="mailto:eriksongoncalves@yahoo.com.br" target="_blank" title="E-mail - Erikson Gonçalves Bezerra"><img alt="E-mail - Erikson Gonçalves Bezerra" width="32" src="https://www.flaticon.com/svg/static/icons/svg/187/187197.svg" /></a>
 
 
 <br/>
@@ -40,5 +40,4 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=eriksongoncalves&show_icons=true&theme=dark" alt="Erikson Gonçalves Bezerra github stats" />
-
 
