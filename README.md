@@ -28,9 +28,9 @@
 
 ### **Where to find me:**
 
-<a href="https://www.linkedin.com/in/eriksongoncalves/" target="_blank" title="LinkedIn - Erikson Gonçalves Bezerra"><img alt="LinkedIn - Erikson Gonçalves Bezerra" width="28" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" /></a>
+<a href="https://www.linkedin.com/in/eriksongoncalves/" target="_blank" title="LinkedIn - Erikson Gonçalves Bezerra"><img alt="LinkedIn - Erikson Gonçalves Bezerra" width="28" src="https://www.svgrepo.com/show/81143/linkedin.svg" /></a>
 <span>&nbsp;</span><span>&nbsp;</span>
-<a href="mailto:eriksongoncalves@yahoo.com.br" target="_blank" title="E-mail - Erikson Gonçalves Bezerra"><img alt="E-mail - Erikson Gonçalves Bezerra" width="32" src="https://www.flaticon.com/svg/static/icons/svg/187/187197.svg" /></a>
+<a href="mailto:eriksongoncalves@yahoo.com.br" target="_blank" title="E-mail - Erikson Gonçalves Bezerra"><img alt="E-mail - Erikson Gonçalves Bezerra" width="32" src="https://www.svgrepo.com/show/34965/email.svg" /></a>
 
 
 <br/>
